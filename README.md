@@ -7,7 +7,7 @@
 </h3>
 
 
-<img src="https://github.com/cleberbonifacio/gobarber/blob/master/assets/barbeiro.png" width="290"><img src="https://github.com/cleberbonifacio/gobarber/blob/master/assets/horario.png" width="290"><img src="https://github.com/cleberbonifacio/gobarber/blob/master/assets/agendamentos.png" width="290">
+<img src="https://github.com/cleberbonifacio/gobarber/blob/master/assets/barbeiro.png" width="287"><img src="https://github.com/cleberbonifacio/gobarber/blob/master/assets/horario.png" width="287"><img src="https://github.com/cleberbonifacio/gobarber/blob/master/assets/agendamentos.png" width="287">
 
 <img src="https://github.com/cleberbonifacio/gobarber/blob/master/assets/login.png">
 <img src="https://github.com/cleberbonifacio/gobarber/blob/master/assets/dashboard.PNG">
