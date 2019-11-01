@@ -9,11 +9,7 @@
 
 <img src="https://github.com/cleberbonifacio/gobarber/blob/master/assets/barbeiro.png" width="290"><img src="https://github.com/cleberbonifacio/gobarber/blob/master/assets/horario.png" width="290"><img src="https://github.com/cleberbonifacio/gobarber/blob/master/assets/agendamentos.png" width="290">
 
-
-
 <img src="https://github.com/cleberbonifacio/gobarber/blob/master/assets/login.png">
-<img src="https://github.com/cleberbonifacio/gobarber/blob/master/assets/profile.png">
-
 <img src="https://github.com/cleberbonifacio/gobarber/blob/master/assets/dashboard.PNG">
 <img src="https://github.com/cleberbonifacio/gobarber/blob/master/assets/perfil.png">
 
@@ -85,7 +81,7 @@ Postgres - Banco de dados principal
   `docker run --name database -e POSTGRES_PASSWORD=docker -p 5432:5432 -d postgres`
 
 MongoDB - Banco de dados para notificações 
-  `docker run --name mongobarber -p 27017:27017 -d -t mongo`
+   `docker run --name mongobarber -p 27017:27017 -d -t mongo`
 
 Redis - Banco de dados para filas  
   `docker run --name redisbarber -p 6379:6379 -d -t redis:alpine`
